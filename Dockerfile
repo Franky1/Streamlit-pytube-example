@@ -33,7 +33,7 @@ EXPOSE 8501
 COPY . .
 
 # CMD ["streamlit", "run", "streamlit_app.py"]
-CMD ["streamlit", "run", "test.py"]
+CMD ["streamlit", "run", "test2.py"]
 
 # Some docker commands see below:
 # docker build --progress=plain --tag pytube:latest .

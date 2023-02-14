@@ -1,3 +1,7 @@
+numpy
 streamlit
+unidecode
 pytube
 ffmpeg-python
+yt-dlp
+sponsorblock.py

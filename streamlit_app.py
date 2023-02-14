@@ -6,7 +6,7 @@ from pytube import YouTube
 
 
 # set basic streamlit page config
-st.set_page_config(page_title="Youtube Download", page_icon="🎵", layout="centered", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="Youtube Download", page_icon="🎞️", layout="centered", initial_sidebar_state="collapsed")
 
 # apply custom css if needed
 # with open('utils/style.css') as css:
@@ -24,7 +24,7 @@ def download_audio_to_buffer(url):
 
 
 def main():
-    st.title("Download Audio/Video from Youtube")
+    st.title("Download Audio/Video from Youtube 🎞️")
     url = st.text_input("Insert Youtube URL:")
     if url:
         with st.spinner("Downloading Stream from Youtube..."):
