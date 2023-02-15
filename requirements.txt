@@ -1,5 +1,9 @@
 numpy
 streamlit
+streamlit-elements
+streamlit-player
+streamlit-aggrid
+stqdm
 unidecode
 pytube
 ffmpeg-python
