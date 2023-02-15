@@ -5,3 +5,4 @@ pytube
 ffmpeg-python
 yt-dlp
 sponsorblock.py
+python-dotenv
