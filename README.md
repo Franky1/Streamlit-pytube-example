@@ -14,7 +14,7 @@ A small example project to demonstrate how to use **pytube** together with strea
 - pytube
   - <https://github.com/pytube/pytube>
 - yt-dlp
-  - *predecessor of youtube-dl*
+  - *successor of youtube-dl*
   - <https://github.com/yt-dlp/yt-dlp>
 - youtube-dl
   - *seems to be not maintained anymore*
@@ -36,6 +36,8 @@ A small example project to demonstrate how to use **pytube** together with strea
   - *outdated*
   - <https://pysftp.readthedocs.io>
   - <https://sftptogo.com/blog/python-sftp/>
+- stqdm
+  - <https://github.com/Wirg/stqdm>
 
 ## ToDo
 
